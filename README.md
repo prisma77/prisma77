@@ -54,9 +54,22 @@
 
 <div align="center">
   
-  ![Prisma77's GitHub stats](https://github-readme-stats.vercel.app/api?username=prisma77&show_icons=true&theme=radical&hide_border=true)
+  ![Prisma77's GitHub stats](https://github-readme-stats.vercel.app/api?username=prisma77&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prisma77&layout=compact&theme=radical&hide_border=true)
+</div>
+
+## 💻 Most Used Languages
+
+<div align="center">
+  
+  <!-- 더 많은 언어를 보여주는 상세한 통계 -->
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prisma77&layout=compact&theme=radical&hide_border=true&langs_count=10&exclude_repo=repo1,repo2)
+  
+  <!-- 세로형 레이아웃으로도 표시 -->
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prisma77&theme=radical&hide_border=true&langs_count=8&layout=donut)
+  
+  <!-- 파이 차트 형태 -->
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prisma77&theme=radical&hide_border=true&langs_count=6&layout=pie)
   
 </div>
 
@@ -72,17 +85,22 @@
 
 <div align="center">
   
-  ![trophy](https://github-profile-trophy.vercel.app/?username=prisma77&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=prisma77&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4)
   
 </div>
 
-## 📈 Activity Graph
+## 📈 Contribution Graph
 
 <div align="center">
   
   ![Prisma77's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prisma77&theme=react-dark&hide_border=true)
   
 </div>
+
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 💫 Fun Facts
 
