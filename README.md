@@ -65,11 +65,6 @@
   <!-- 더 많은 언어를 보여주는 상세한 통계 -->
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prisma77&layout=compact&theme=radical&hide_border=true&langs_count=10&exclude_repo=repo1,repo2)
   
-  <!-- 세로형 레이아웃으로도 표시 -->
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prisma77&theme=radical&hide_border=true&langs_count=8&layout=donut)
-  
-  <!-- 파이 차트 형태 -->
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prisma77&theme=radical&hide_border=true&langs_count=6&layout=pie)
   
 </div>
 
