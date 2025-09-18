@@ -4,11 +4,11 @@
   
 </div>
 
-# 안녕하세요! 👋 저는 Prisma77입니다
+# 안녕하세요! 👋 Prisma입니다
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=안녕하세요!+개발자+Prisma77입니다;Welcome+to+my+GitHub+profile!;항상+새로운+것을+배우고+있어요)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=안녕하세요!+개발자+Prisma입니다;Welcome+to+my+GitHub+profile!;항상+새로운+것을+배우고+있어요)
   
 </div>
 
