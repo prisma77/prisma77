@@ -1,118 +1,112 @@
 <div align="center">
-  
-  ![Header](https://files.manuscdn.com/user_upload_by_module/session_file/95099426/QacWsvgulQLrKhNI.png)
-  
-</div>
+
+<img src="https://files.manuscdn.com/user_upload_by_module/session_file/95099426/QacWsvgulQLrKhNI.png" alt="Prisma 프로필 배너" width="100%" />
 
 # 안녕하세요! 👋 Prisma입니다
 
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=안녕하세요!+개발자+Prisma입니다;Welcome+to+my+GitHub+profile!;항상+새로운+것을+배우고+있어요)
-  
+**Backend Development · Android · LDAP**
+
+서비스를 개발하고, 반복되는 운영 작업을 자동화합니다.
+
 </div>
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-안녕하세요! 저는 **개발을 하는 프로그래머**입니다. 새로운 기술을 배우고 흥미로운 프로젝트를 만드는 것을 좋아합니다.
+백엔드 개발 경험을 바탕으로 Android 앱 개발과 LDAP 관련 업무를 이어가고 있습니다.
+개발과 운영 과정에서 만나는 문제를 해결하고, 배운 내용을 코드와 문서로 정리합니다.
 
-- 🔭 현재 **새로운 프로젝트**를 진행 중입니다
-- 🌱 **최신 기술 스택**을 지속적으로 학습하고 있습니다
-- 💡 **창의적인 아이디어**를 코드로 구현하는 것을 즐깁니다
-- 🎯 **깔끔하고 효율적인 코드** 작성을 추구합니다
+- ⚽ **MULTI_FC** — 풋살 팀 매칭과 실시간 소통을 위한 팀 프로젝트
+- 🌿 **경기 숨길** — 대기질·날씨 정보를 활용하는 Android 앱 개발 중
+- 🛠️ **LDAP 업무** — Linux 환경에서 접근 로그 용량 수집과 운영 작업 자동화
 
-## 🛠️ Tech Stack
+## 🚀 Projects
 
-<div align="center">
+### ⚽ MULTI_FC | 대표 프로젝트
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+**풋살 팀 매칭과 실시간 소통을 위한 웹 플랫폼**
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+풋살을 즐기는 사람들이 팀을 구성하고, 경기를 찾고, 함께 소통할 수 있도록 만든 팀 프로젝트입니다.
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+- 풋살 팀 매칭과 구장 검색
+- WebSocket 기반 실시간 채팅 및 알림
+- 경기 일정 관리와 커뮤니티
 
-### Tools & Others
+**사용 기술:** Java · Spring Boot · MyBatis · MySQL · WebSocket · Thymeleaf
+
+[📂 프로젝트 저장소](https://github.com/K-digital-backend-bootcamp/Backend5_1_Multi_FC)
+
+---
+
+### 🌿 경기 숨길 | 개발 중
+
+**대기질과 날씨를 확인하고 산책·외출 판단을 돕는 Android 앱**
+
+공공데이터와 AI를 활용해 주변 환경 정보를 제공하는 앱입니다.
+현재는 리부트 작업과 함께 카카오 도보 API를 활용한 경로 검증을 진행하고 있습니다.
+
+- 대기질·날씨 공공데이터 활용
+- Jetpack Compose 기반 Android 화면 구성
+- 지도와 도보 경로 연동 기능 개발
+
+**사용 기술:** Kotlin · Jetpack Compose · Kakao Map SDK · 공공데이터 API · Gemini API
+
+[📂 프로젝트 저장소](https://github.com/prisma77/gyeonggi-sumgil-v2)
+
+---
+
+### 🛠️ LDAP Access Log Size Collector | 최근 업무 관련 작업
+
+**LDAP 서버의 일별 접근 로그 용량을 수집하는 Bash 스크립트**
+
+전날 생성된 회전 로그의 크기를 합산하고, 서버별 월간 CSV 파일에 기록합니다.
+반복되는 로그 용량 확인 작업을 자동화하기 위해 만든 도구입니다.
+
+- 전날 LDAP 접근 로그의 전체 용량 계산
+- 날짜·호스트명·로그 용량을 CSV로 기록
+- 월별·호스트별 파일 관리
+- Cron을 이용한 정기 실행
+
+**사용 기술:** Linux · Bash · GNU Coreutils · Cron · CSV
+
+[📂 프로젝트 저장소](https://github.com/prisma77/access_log_size)
+
+## 🛠️ Tech & Tools
+
+### Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-DC382D?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Android
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### Operations & Tools
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![LDAP](https://img.shields.io/badge/LDAP-005A9C?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  ![Prisma77's GitHub stats](https://github-readme-stats.vercel.app/api?username=prisma77&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-  
+
+![Prisma의 GitHub 활동 통계](https://github-readme-stats.vercel.app/api?username=prisma77&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+
+![Prisma의 저장소 언어 통계](https://github-readme-stats.vercel.app/api/top-langs/?username=prisma77&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
 </div>
 
-## 💻 Most Used Languages
+## 📫 Contact
 
 <div align="center">
-  
-  <!-- 더 많은 언어를 보여주는 상세한 통계 -->
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prisma77&layout=compact&theme=radical&hide_border=true&langs_count=10&exclude_repo=repo1,repo2)
-  
-  
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prisma77)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prisma@kakao.com)
+
 </div>
-
-## 🔥 GitHub Streak
-
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prisma77&theme=radical&hide_border=true)
-  
-</div>
-
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-  ![Prisma77's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prisma77&theme=react-dark&hide_border=true)
-  
-</div>
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-## 💫 Fun Facts
-
-- 🎮 게임을 좋아하고 가끔 게임 개발도 해봅니다
-- 📚 새로운 프로그래밍 언어 배우기를 즐깁니다
-- ☕ 코딩할 때는 커피가 필수입니다
-- 🌟 오픈소스 프로젝트에 기여하는 것을 좋아합니다
-
-## 📫 Connect with Me
-
-<div align="center">
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prisma77)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](prisma@kakao.com)
-  
-</div>
-
----
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=prisma77&color=brightgreen&style=flat-square)
-  
-  **⭐ 제 프로젝트가 마음에 드신다면 Star를 눌러주세요! ⭐**
-  
-</div>
-
