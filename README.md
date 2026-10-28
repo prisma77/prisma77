@@ -4,8 +4,6 @@
 
 **Backend Development · Android · LDAP**
 
-서비스를 개발하고, 반복되는 운영 작업을 자동화합니다.
-
 </div>
 
 ##  About Me
