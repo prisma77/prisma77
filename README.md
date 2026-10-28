@@ -2,7 +2,7 @@
 
 <img src="https://files.manuscdn.com/user_upload_by_module/session_file/95099426/QacWsvgulQLrKhNI.png" alt="Prisma 프로필 배너" width="100%" />
 
-# 안녕하세요! 👋 Prisma입니다
+# Prisma입니다
 
 **Backend Development · Android · LDAP**
 
@@ -10,16 +10,16 @@
 
 </div>
 
-## 👨‍💻 About Me
+##  About Me
 
 백엔드 개발 경험을 바탕으로 Android 앱 개발과 LDAP 관련 업무를 이어가고 있습니다.
 개발과 운영 과정에서 만나는 문제를 해결하고, 배운 내용을 코드와 문서로 정리합니다.
 
-- ⚽ **MULTI_FC** — 풋살 팀 매칭과 실시간 소통을 위한 팀 프로젝트
-- 🌿 **경기 숨길** — 대기질·날씨 정보를 활용하는 Android 앱 개발 중
-- 🛠️ **LDAP 업무** — Linux 환경에서 접근 로그 용량 수집과 운영 작업 자동화
+-  **MULTI_FC** — 풋살 팀 매칭과 실시간 소통을 위한 팀 프로젝트
+-  **경기 숨길** — 대기질·날씨 정보를 활용하는 Android 앱 개발 중
+-  **LDAP 업무** — Linux 환경에서 접근 로그 용량 수집과 운영 작업 자동화
 
-## 🚀 Projects
+##  Projects
 
 ### ⚽ MULTI_FC | 대표 프로젝트
 
@@ -37,7 +37,7 @@
 
 ---
 
-### 🌿 경기 숨길 | 개발 중
+###  경기 숨길 | 개발 중
 
 **대기질과 날씨를 확인하고 산책·외출 판단을 돕는 Android 앱**
 
@@ -54,7 +54,7 @@
 
 ---
 
-### 🛠️ LDAP Access Log Size Collector | 최근 업무 관련 작업
+###  LDAP Access Log Size Collector | 최근 업무 관련 작업
 
 **LDAP 서버의 일별 접근 로그 용량을 수집하는 Bash 스크립트**
 
@@ -70,7 +70,7 @@
 
 [📂 프로젝트 저장소](https://github.com/prisma77/access_log_size)
 
-## 🛠️ Tech & Tools
+##  Tech & Tools
 
 ### Backend
 
@@ -92,7 +92,7 @@
 ![LDAP](https://img.shields.io/badge/LDAP-005A9C?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -102,7 +102,7 @@
 
 </div>
 
-## 📫 Contact
+##  Contact
 
 <div align="center">
 
