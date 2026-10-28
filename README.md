@@ -2,8 +2,6 @@
 
 <img src="https://files.manuscdn.com/user_upload_by_module/session_file/95099426/QacWsvgulQLrKhNI.png" alt="Prisma 프로필 배너" width="100%" />
 
-# Prisma입니다
-
 **Backend Development · Android · LDAP**
 
 서비스를 개발하고, 반복되는 운영 작업을 자동화합니다.
