@@ -17,7 +17,7 @@
 
 ##  Projects
 
-### ⚽ MULTI_FC | 대표 프로젝트
+### ⚽ MULTI_FC
 
 **풋살 팀 매칭과 실시간 소통을 위한 웹 플랫폼**
 
@@ -33,7 +33,7 @@
 
 ---
 
-###  경기 숨길 | 개발 중
+###  경기 숨길
 
 **대기질과 날씨를 확인하고 산책·외출 판단을 돕는 Android 앱**
 
@@ -50,7 +50,7 @@
 
 ---
 
-###  LDAP Access Log Size Collector | 최근 업무 관련 작업
+###  LDAP Access Log Size Collector
 
 **LDAP 서버의 일별 접근 로그 용량을 수집하는 Bash 스크립트**
 
