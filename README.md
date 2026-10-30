@@ -88,13 +88,17 @@
 ![LDAP](https://img.shields.io/badge/LDAP-005A9C?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-##  GitHub Stats
+
+## GitHub Stats
 
 <div align="center">
 
-![Prisma의 GitHub 활동 통계](https://github-readme-stats.vercel.app/api?username=prisma77&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+![Prisma의 GitHub 활동 통계](https://github-stats-extended.vercel.app/api?username=prisma77&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
 
-![Prisma의 저장소 언어 통계](https://github-readme-stats.vercel.app/api/top-langs/?username=prisma77&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![Prisma의 저장소 언어 통계](https://github-stats-extended.vercel.app/api/top-langs/?username=prisma77&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+</div>
+
 
 </div>
 
